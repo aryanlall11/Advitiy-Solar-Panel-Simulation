@@ -1,0 +1,11 @@
+Notations:
+>> Solar panels are numbered(given unique ID's) as 1(Leading), 2(Lagging), 3(Sun Side) and 4(Zenith Side)
+......................................................................
+
+1. (1-2)(3-4)=> (1 in series with 2) parallel (3 in series with 4)
+
+2. p2(12)sp2(34)=> (1 in parallel to 2) series (3 in parallel with 4)
+
+3. s3(123)p1(4)=> (1, 2 and 3 in series) parallel to (4)
+
+4. Allp=> All panels connected in parallel to each other
